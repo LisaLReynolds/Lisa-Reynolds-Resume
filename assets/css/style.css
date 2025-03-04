@@ -1,4 +1,26 @@
-h1 {
+:root {
+    primary-color: #3498db;
+    secondary-color: #2ecc71;
+    accent-color: #e74c3c;
+}
+
+* {
+    font-family: "Aref Ruqaa", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* .aref-ruqaa-regular {
+    font-family: "Aref Ruqaa", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   */
+  .aref-ruqaa-bold {
+    font-family: "Aref Ruqaa", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  h1 {
     text-align: left;
-    font-weight: bold;
 }
